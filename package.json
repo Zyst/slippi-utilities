@@ -1,0 +1,14 @@
+{
+  "name": "slippi-utilities",
+  "version": "1.0.0",
+  "description": "Some random utilities I'm writing for slippi",
+  "main": "index.js",
+  "scripts": {
+    "win-loss": "node win-loss.js"
+  },
+  "author": "Zyst",
+  "license": "MIT",
+  "dependencies": {
+    "slp-parser-js": "^3.0.0"
+  }
+}
