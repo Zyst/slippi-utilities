@@ -4,6 +4,7 @@
   "description": "Some random utilities I'm writing for slippi",
   "main": "index.js",
   "scripts": {
+    "average-apm": "node average-apm.js",
     "highest-apm": "node highest-apm.js",
     "win-loss": "node win-loss.js"
   },
